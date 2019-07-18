@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 100px;
+    background: -webkit-linear-gradient(rgba(205, 20, 0, 0.7), rgba(0, 0, 0, 0.71));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+input {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
